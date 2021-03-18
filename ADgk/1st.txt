@@ -11,7 +11,6 @@ wxsnsdy.tc.qq.com^
 wxsnsdy.video.qq.com^
 zhn.cynouk.cn^
 |balmoralmkt.com^
-||sjh.baidu.com^
 |https://4o.cc^
 ||00-gov.cn^
 ||000dn.com/
@@ -5644,6 +5643,7 @@ zhn.cynouk.cn^
 ||sjaidu.com^
 ||sjbaiduadv1.redou.com^
 ||sjgnskf.com^
+||sjh.baidu.com^
 ||sjmwkj.cn^
 ||sjy-stone.com.cn^
 ||sjzqu.com^
