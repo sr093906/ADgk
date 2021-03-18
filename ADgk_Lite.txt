@@ -1,7 +1,3 @@
-0.0.0.0 hxsame.hexun.com
-0.0.0.0 push.qq.com
-0.0.0.0 wxsnsdy.tc.qq.com
-0.0.0.0 wxsnsdy.video.qq.com
 0.0.0.0 114so.cn
 0.0.0.0 51yes.com
 0.0.0.0 7xi9g1.com1.z0.glb.clouddn.com
@@ -294,6 +290,7 @@
 0.0.0.0 hudong.pl.youku.com
 0.0.0.0 huichuan.sm.cn
 0.0.0.0 husky.sogou.com
+0.0.0.0 hxsame.hexun.com
 0.0.0.0 hydra.alibaba.com
 0.0.0.0 iadmat.nosdn.127.net
 0.0.0.0 iadmusicmat.music.126.net
@@ -460,6 +457,7 @@
 0.0.0.0 poster.weather.com.cn
 0.0.0.0 ppurifier.game.xiaomi.com
 0.0.0.0 pss.alicdn.com
+0.0.0.0 push.qq.com
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 pv.hd.sohu.com
 0.0.0.0 pvnapp.zol.com.cn
@@ -516,6 +514,7 @@
 0.0.0.0 sinaalicdn.com
 0.0.0.0 sinaaliyun.cn
 0.0.0.0 sis.jpush.io
+0.0.0.0 sjh.baidu.com
 0.0.0.0 smartad.10010.com
 0.0.0.0 snbnhngl.ifeng.com
 0.0.0.0 sngapm.qq.com
@@ -609,6 +608,8 @@
 0.0.0.0 worldwide.sogou.com
 0.0.0.0 wtradv.market.xiaomi.com
 0.0.0.0 wxs.qq.com
+0.0.0.0 wxsnsdy.tc.qq.com
+0.0.0.0 wxsnsdy.video.qq.com
 0.0.0.0 wzjs.cdn.bcebos.com
 0.0.0.0 x.jd.com
 0.0.0.0 xc.mydrivers.com
