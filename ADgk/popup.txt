@@ -36,4 +36,3 @@
 ||wy213.com^$popup,third-party
 ||xingshenfang.cn^$popup
 ||xiyouence.com^$popup,third-party
-||yunbofangbt.com/$~font,popup

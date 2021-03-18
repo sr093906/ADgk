@@ -53,7 +53,6 @@
 ||3vlm.com^$third-party
 ||44pv.com$third-party
 ||4936.cn^$third-party
-||49ko.com^$third-party
 ||4name.com^$third-party
 ||51gugu.com^$third-party
 ||51junpin.net^$third-party
@@ -87,7 +86,6 @@
 ||810236.com^$third-party
 ||857yx.com^$third-party
 ||88ysg.com^$third-party
-||8910ad.com^$third-party
 ||8989u.com$third-party
 ||90370.com^$third-party
 ||91friend.com^$third-party
@@ -233,7 +231,6 @@
 ||gzbywl.com^$third-party
 ||gzmzts.com$third-party
 ||h501.cn^$third-party
-||hailuoxiang.com^$third-party
 ||haiyunx.com$third-party
 ||hao123union.baidu.com^$third-party
 ||haoba.info^$third-party
@@ -470,7 +467,6 @@
 ||ueadlian.com^$third-party
 ||ufolm.com$third-party
 ||ufstone.com^$third-party
-||ugoooo.com^$third-party
 ||uil.cbs.baidu.com$third-party
 ||unimhk.com$third-party
 ||urlad.com.tw^$third-party
@@ -502,7 +498,6 @@
 ||wofan.net^$third-party
 ||wshufa.com^$third-party
 ||www.assoc-amazon.cn^$third-party
-||x-ssp.com^$third-party
 ||xajx.com^$third-party
 ||xdwan.com$third-party
 ||xfyjz.cn^$third-party

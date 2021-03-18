@@ -11,6 +11,7 @@ wxsnsdy.tc.qq.com^
 wxsnsdy.video.qq.com^
 zhn.cynouk.cn^
 |balmoralmkt.com^
+||sjh.baidu.com^
 |https://4o.cc^
 ||00-gov.cn^
 ||000dn.com/
@@ -54,7 +55,6 @@ zhn.cynouk.cn^
 ||07171.com^
 ||0728w.cn^
 ||0755man.cn^
-||0756j.com^
 ||0756sjlm.com.cn^
 ||07780778.com^
 ||0796gou.com^
@@ -191,7 +191,6 @@ zhn.cynouk.cn^
 ||1155t.cn^
 ||116.55.227.242^
 ||116b.com^
-||116zhuce.com^
 ||117.25.133.209^
 ||118.144.88.216^
 ||118.190.123.237^
@@ -250,7 +249,6 @@ zhn.cynouk.cn^
 ||155game.com^
 ||156.247.120.15^
 ||156.247.120.31^
-||1571537.com^
 ||158779.com^
 ||158aq.com^
 ||162.209.213.66^
@@ -282,7 +280,6 @@ zhn.cynouk.cn^
 ||1818bobo.com^
 ||181lm.net^
 ||182.92.81.104^
-||18dusun.com^
 ||18mad.com^
 ||18rm.com^
 ||18tzx.com^
@@ -303,7 +300,6 @@ zhn.cynouk.cn^
 ||1l1.cc^
 ||1lan.tv^
 ||1lib.cn^
-||1lo0.net^
 ||1look.tv^
 ||1maode.com^
 ||1mb034.cn^
@@ -453,7 +449,6 @@ zhn.cynouk.cn^
 ||37see.com^
 ||37wan.com^
 ||37xs.net^
-||3808010.com^
 ||3839168.com^
 ||38499.com^
 ||38ra.com^
@@ -467,7 +462,6 @@ zhn.cynouk.cn^
 ||39xc.net^
 ||3dqiang.com^
 ||3dwwwgame.com^
-||3f6f.cc^
 ||3g.990.net^
 ||3gmimo.com^
 ||3gmtr.com^
@@ -518,7 +512,6 @@ zhn.cynouk.cn^
 ||4excel.cn^
 ||4ggww.com^
 ||4h44.com^
-||4jnxb9dnj.com^
 ||4p1uo.cn^
 ||4py3oe.cn^
 ||4qn1k.cn^
@@ -534,7 +527,6 @@ zhn.cynouk.cn^
 ||5125129.com^
 ||512612.com^
 ||5151ad.com^
-||5151gj.com^
 ||51688.cc
 ||516fanli.com^
 ||517m.cn^
@@ -568,7 +560,6 @@ zhn.cynouk.cn^
 ||525cm.com^
 ||5269120.com^
 ||526d.com^
-||52896368.com^
 ||5293.com^
 ||52aan.cn^
 ||52homie.cn^
@@ -676,7 +667,6 @@ zhn.cynouk.cn^
 ||68710266.com^
 ||6881666.com^
 ||688mob.com^
-||68l0fx.cn^
 ||69.28.57.245^
 ||69duk.com^
 ||69u0t.cn^
@@ -758,7 +748,6 @@ zhn.cynouk.cn^
 ||7jiajiao.com^
 ||7m307.cn^
 ||7mad.7m.cn^
-||7penny.com^
 ||7pk.com/
 ||7pud.com^
 ||7shang9xia.com^
@@ -826,7 +815,6 @@ zhn.cynouk.cn^
 ||8c3k.cn^
 ||8cnd.com^
 ||8dp.net^
-||8dulm.com^
 ||8fiv9a.cn^
 ||8gl.com.cn^
 ||8hdp.cn^
@@ -899,7 +887,6 @@ zhn.cynouk.cn^
 ||9868.online^
 ||988878.com^
 ||9898c.com^
-||98trft.xyz^
 ||991pao.com^
 ||996f3d.cn^
 ||999.com^
@@ -1100,7 +1087,6 @@ zhn.cynouk.cn^
 ||adaccount.csdn.net^
 ||adacgov.cn^
 ||adadmin.house365.com^
-||adanzhuo.com^
 ||adaog.com^
 ||adash.m.taobao.com^
 ||adash.man.aliyuncs.com^
@@ -1130,7 +1116,6 @@ zhn.cynouk.cn^
 ||addthisedge.com^
 ||adeng.hpplay.cn^
 ||adexpo.tencentmusic.com^
-||adexprt.com^
 ||adf.dahe.cn^
 ||adfunds.org
 ||adfurikun.jp
@@ -1169,7 +1154,6 @@ zhn.cynouk.cn^
 ||admaster.com.cn^
 ||admd.housefun.com.tw^
 ||admd.yam.com^
-||admddc.com^
 ||admedia.com^
 ||admin25.com^
 ||admin5.com^
@@ -1286,7 +1270,6 @@ zhn.cynouk.cn^
 ||aercxy.com^
 ||aeventlog.beacon.qq.com^
 ||afd.baidu.com^
-||afefw.com^
 ||affiliate6.com^
 ||afj.cc
 ||afj.xasjpf.com^
@@ -1307,7 +1290,6 @@ zhn.cynouk.cn^
 ||agzxj8990.com^
 ||ah808.com^
 ||ahd.ruten.com.tw^
-||ahfbb.com^
 ||ahhuazhen.com^
 ||ahjzys.com^
 ||ahlxxx.com^
@@ -1320,7 +1302,6 @@ zhn.cynouk.cn^
 ||aibangzs.com^
 ||aibici.com^
 ||aiclk.com^
-||aicydb.com^
 ||aidaicn.com^
 ||aigou023.com^
 ||aihaoduo.cn^
@@ -1397,7 +1378,6 @@ zhn.cynouk.cn^
 ||analytics.163.com^
 ||anastasiaana.com^
 ||andmejs.com^
-||anhuilitian.net^
 ||anioscp.com^
 ||anmeilai.net^
 ||ann5.net^
@@ -1491,8 +1471,6 @@ zhn.cynouk.cn^
 ||assigned.cn^
 ||assp.sohu.com^
 ||astrategy.beacon.qq.com^
-||aswlx.cn^
-||at918.com^
 ||at98.com^
 ||atanx.alicdn.com^
 ||atdmt.com^
@@ -1638,7 +1616,6 @@ zhn.cynouk.cn^
 ||bdcode.youke.com^
 ||bdcode1.haodou.com^
 ||bddm.58news.org^
-||bdfirst.cn^
 ||bdfpbimg.ifengimg.com^
 ||bdgg.qjy168.com^
 ||bdgg.youbian.com^
@@ -2102,11 +2079,9 @@ zhn.cynouk.cn^
 ||cnlhg.cn^
 ||cnlink8.com^
 ||cnmmei.com^
-||cnnbps.com^
 ||cnoufangfeng.cn^
 ||cnpinzhuo.com^
 ||cnscdj.com^
-||cnshef.com^
 ||cnwav.com^
 ||cnxad.com^
 ||cnxad.net^
@@ -2138,7 +2113,6 @@ zhn.cynouk.cn^
 ||coin-have.com^
 ||coin-hive.com^
 ||coinerra.com^
-||coinhive-manager.com/
 ||coinhive.com^
 ||cojia.net^
 ||collect.ptengine.cn^
@@ -2159,7 +2133,6 @@ zhn.cynouk.cn^
 ||coolguang.com^
 ||coolnay.com^
 ||cooolyi.cn^
-||corechina.net^
 ||cornplus.cn^
 ||corocksi.com^
 ||couas.com^
@@ -2350,7 +2323,6 @@ zhn.cynouk.cn^
 ||dandan11.top^
 ||dandan13.top^
 ||dandan15.top^
-||danpinwu.com^
 ||dante2007.com^
 ||daokejs.com^
 ||daoyoudao.com^
@@ -2372,12 +2344,9 @@ zhn.cynouk.cn^
 ||datas.tianqistatic.com^
 ||datax.baidu.com^
 ||datouniao.com^
-||dawwx.com^
-||daxueshengqiandai.com^
 ||dazhantai.com^
 ||dazhonghua.cn^
 ||dazibenwm.com^
-||dbaof.com^
 ||dbap.sf058.cn^
 ||dbncp.com^
 ||dbojetp.cn^
@@ -2425,7 +2394,6 @@ zhn.cynouk.cn^
 ||dgaoz.com^
 ||dgfggy.com^
 ||dglscm.cn^
-||dgpzx.com^
 ||dgstatic.jd.com^
 ||dgxzwj.com^
 ||dhaof.com^
@@ -2545,7 +2513,6 @@ zhn.cynouk.cn^
 ||door2new.net^
 ||doowe.cn^
 ||dopa.com^
-||doryhome.com^
 ||dou777.com^
 ||doubleclick.ctfile.com^
 ||doubleclick.net^
@@ -2595,7 +2562,6 @@ zhn.cynouk.cn^
 ||duiwai.baidu.com^
 ||dulewang.com^
 ||duobaoqj.com^
-||duoduo.icu^
 ||duoduo.net^
 ||duomai.com^
 ||duomeng.cn^
@@ -2604,7 +2570,6 @@ zhn.cynouk.cn^
 ||duoyidd.com^
 ||dupinpu.com^
 ||dushimj.com^
-||dutinf.com^
 ||dutuu.net^
 ||duusuu.com^
 ||duyihu.net^
@@ -2652,7 +2617,6 @@ zhn.cynouk.cn^
 ||e399.com^
 ||e647ob.cn^
 ||e7001.com^
-||e7002.com^
 ||e701.net^
 ||e70123.com^
 ||e7015.com^
@@ -2693,7 +2657,6 @@ zhn.cynouk.cn^
 ||ee4kdushuba.com^
 ||eeee500.com^
 ||eeeqi.cn^
-||eekia.com^
 ||eeo.5du5.com^
 ||eez9.com^
 ||ef9377.com^
@@ -2750,7 +2713,6 @@ zhn.cynouk.cn^
 ||erlpbwy.cn^
 ||ermao.sikabeila.com^
 ||ero-advertising.com^
-||erocw.com^
 ||erosyndc.com^
 ||err.taobao.com^
 ||eshuy.com^
@@ -2797,7 +2759,6 @@ zhn.cynouk.cn^
 ||f70123.com^
 ||f8272.com^
 ||f99.gdsoq.com^
-||faed4.cc^
 ||faemzho.cn^
 ||family-joy.com^
 ||fangdalaw.gd.cn^
@@ -2851,7 +2812,6 @@ zhn.cynouk.cn^
 ||ff112244.com^
 ||ffbook.cc^
 ||ffmobi.com^
-||ffychb.com^
 ||ffyoo.com^
 ||fgaon.com^
 ||fgi90.com^
@@ -2872,7 +2832,6 @@ zhn.cynouk.cn^
 ||fjmrxys.com^
 ||fjshxzyyxgs.cn^
 ||fjsjsj.com^
-||fjtzjy.com^
 ||fjxyo.com^
 ||fkikij.cn^
 ||fkkse.com^
@@ -2882,7 +2841,6 @@ zhn.cynouk.cn^
 ||flunion.cn^
 ||flurry.com^
 ||flyigouwu.com^
-||fm6w.com^
 ||fmgoal.com^
 ||fninin.cn^
 ||fnkjj.com^
@@ -2932,7 +2890,6 @@ zhn.cynouk.cn^
 ||fuwosi.cn^
 ||fuxin-tech.com^
 ||fuxunb.com^
-||fuyigo.top^
 ||fv99.com^
 ||fw.zhuaji.org^
 ||fwjiekou.com^
@@ -2952,7 +2909,6 @@ zhn.cynouk.cn^
 ||fzb01.qiushibaike.com^
 ||fzdfwy.com^
 ||fzglqyy.com^
-||fzxrjx.com^
 ||fzyda.com^
 ||g.163.com^
 ||g.3lian.com^
@@ -2990,7 +2946,6 @@ zhn.cynouk.cn^
 ||gamecenter.iqiyi.com^
 ||gamediad.com^
 ||gamex.mobile.youku.com^
-||ganboo.com^
 ||ganjituiguang.ganji.com^
 ||gaochaolian.cn^
 ||gaoduan.cc
@@ -3070,8 +3025,6 @@ zhn.cynouk.cn^
 ||ghosttty.cn^
 ||gift.douyucdn.cn^
 ||giroud.top^
-||gitpw.com^
-||gjghy.com^
 ||gjiai.com^
 ||gjiak.com^
 ||gk1.582582.com^
@@ -3105,7 +3058,6 @@ zhn.cynouk.cn^
 ||goolpter.com^
 ||gosquared.com^
 ||goto.www.iciba.com^
-||gotoniubiurl.pw^
 ||gotourl.xyz^
 ||gotourls.bid^
 ||gou1zhe.com^
@@ -3170,7 +3122,6 @@ zhn.cynouk.cn^
 ||gvee.top^
 ||gw.d.ywopt.com^
 ||gw069.com^
-||gw630.com^
 ||gwylm.com^
 ||gxdmxx.com^
 ||gxejgs.com^
@@ -3188,10 +3139,8 @@ zhn.cynouk.cn^
 ||gyt168.com.cn^
 ||gythsg.com^
 ||gz-bz.cn^
-||gzbld.net^
 ||gzcl999.cn^
 ||gzcl999.com^
-||gzdhzb.com^
 ||gzili.com^
 ||gzktpf.com^
 ||gzm.xzbu.com^
@@ -3222,7 +3171,6 @@ zhn.cynouk.cn^
 ||ha.zixuekaoshi.net^
 ||hades.qyer.com^
 ||hailiao520.com^
-||haitejs.com^
 ||haiwengji.net^
 ||haixiaqy.com^
 ||haiyunimg.com^
@@ -3249,7 +3197,6 @@ zhn.cynouk.cn^
 ||haohuo.snssdk.com^
 ||haolew.com^
 ||haomaiweb.com^
-||haoniuo.com^
 ||haoxianyangrouye.com^
 ||hapic1.zhuangxiu22.com^
 ||happybao.com.cn^
@@ -3265,7 +3212,6 @@ zhn.cynouk.cn^
 ||hbguohua.com^
 ||hbhnwy.com^
 ||hbhtbn.com^
-||hbhxqcw.com^
 ||hblanghun.cn^
 ||hblinwei.com^
 ||hbnygj.com^
@@ -3320,7 +3266,6 @@ zhn.cynouk.cn^
 ||henanfs.com^
 ||henanlinyu.cn^
 ||henduoqian.com^
-||henhaoo.cn^
 ||henzhuan.com^
 ||hermes.airad.com^
 ||heroclick.cn^
@@ -3409,7 +3354,6 @@ zhn.cynouk.cn^
 ||hmyangshengji.com^
 ||hnasd.com^
 ||hnctsm.com^
-||hnfpgm.com^
 ||hnfxty.cn^
 ||hnh-hotel.com^
 ||hnhgw.cn^
@@ -3465,7 +3409,6 @@ zhn.cynouk.cn^
 ||huafangzhou.com^
 ||huafujr.com^
 ||huahuaka.com^
-||huanqiucaizhi.com^
 ||huanrentv.cn^
 ||huapuzs.com^
 ||huashengtai.net^
@@ -3521,7 +3464,6 @@ zhn.cynouk.cn^
 ||hy.huangye88.net^
 ||hycfxdc.com^
 ||hydra.alibaba.com^
-||hyjyjc.com^
 ||hylyl.club^
 ||hyperpromote.com^
 ||hypzv.com^
@@ -3537,8 +3479,6 @@ zhn.cynouk.cn^
 ||hzbxm.com^
 ||hzht666.com^
 ||hzhyhm.com^
-||hzkcbs.com^
-||hzmiyou.cn^
 ||hzuok.com^
 ||hzxfmc.com^
 ||hzxma.com^
@@ -3570,7 +3510,6 @@ zhn.cynouk.cn^
 ||ibeip.com^
 ||ibinp.com^
 ||icast.cn^
-||icebeatuy.com^
 ||iche88.cn^
 ||icyrd.com^
 ||id528.com^
@@ -3748,7 +3687,6 @@ zhn.cynouk.cn^
 ||j200d3.cn^
 ||j6y54.xyz^
 ||j6yh5.xyz^
-||j94.cc^
 ||ja9377.com^
 ||jaat3ax.site^
 ||jackaow.com^
@@ -3764,9 +3702,7 @@ zhn.cynouk.cn^
 ||jcaik.com^
 ||jcaip.com^
 ||jcboloni.cn^
-||jcdb88.com^
 ||jcdfdhx.top^
-||jcs666.com^
 ||jcwwxn.com^
 ||jczzjx.com^
 ||jdaot.com^
@@ -3871,7 +3807,6 @@ zhn.cynouk.cn^
 ||jiyou2014.com^
 ||jiyuanzixun.com^
 ||jizzads.com^
-||jjhaolin.com^
 ||jjqyk.com^
 ||jjxgly.com^
 ||jjyx.com^
@@ -4205,7 +4140,6 @@ zhn.cynouk.cn^
 ||laobei.top^
 ||laojiayoufang.com^
 ||laolinow.com^
-||lashou1000.com^
 ||lawumi.cn^
 ||layyi.com^
 ||lbaij.com^
@@ -4240,10 +4174,8 @@ zhn.cynouk.cn^
 ||letaojuan68.com^
 ||letaotaojishi.com^
 ||letaoxiaochi.com^
-||lexyhome.com^
 ||leztc.com^
 ||lfdydk.com^
-||lfhnkp.com^
 ||lflili.com^
 ||lflucky.com^
 ||lfouz.com^
@@ -4604,7 +4536,6 @@ zhn.cynouk.cn^
 ||meng.360zuowen.com^
 ||meng1216.com^
 ||mengchengbao.com^
-||menghuanzs.com^
 ||mengmengdas.com^
 ||mengpr.com^
 ||mengyuanwei.com^
@@ -4880,7 +4811,6 @@ zhn.cynouk.cn^
 ||njs.myhx120.com^
 ||njwxh.com^
 ||njxczy.com^
-||nkcz8.com^
 ||nkeo.top
 ||nkjwmb.com^
 ||nklwgj.com^
@@ -4926,7 +4856,6 @@ zhn.cynouk.cn^
 ||nthfds.xyz^
 ||nthtcs.com^
 ||nthyn.com/
-||ntpddq.com^
 ||ntvsw.com^
 ||ntxiangtai.com^
 ||nuaaad.cn^
@@ -5025,7 +4954,6 @@ zhn.cynouk.cn^
 ||orbit.jd.com^
 ||orchidscape.net^
 ||ordidc.com^
-||osaws.com^
 ||osidf.xyz^
 ||osimym.com^
 ||osndy.com^
@@ -5056,7 +4984,6 @@ zhn.cynouk.cn^
 ||p188.cn^
 ||p3tt.com^
 ||p4p.sina.com.cn^
-||p74.cc^
 ||p77777777.com^
 ||packsss.com^
 ||padsdel.com^
@@ -5115,7 +5042,6 @@ zhn.cynouk.cn^
 ||phpad.cqnews.net^
 ||phpape.com^
 ||pi920.com^
-||piaogj.com^
 ||pic.0597kk.com^
 ||pic.fengniao.com^
 ||pic1.429bi.com^
@@ -5237,7 +5163,6 @@ zhn.cynouk.cn^
 ||px.effirst.com^
 ||pxblmj.com^
 ||pxene.com^
-||pxjjqtg.cn^
 ||pxl2015x1.com^
 ||pyerc.com^
 ||pyhuiyu.com^
@@ -5277,7 +5202,6 @@ zhn.cynouk.cn^
 ||qdiut.com^
 ||qdsfzz.cn^
 ||qdyazc.com^
-||qenuo.com^
 ||qfs365.com^
 ||qfy.innotechx.com^
 ||qgana.com^
@@ -5335,7 +5259,6 @@ zhn.cynouk.cn^
 ||qling.com^
 ||qloer.com^
 ||qlonglong.com^
-||qmkdy.com^
 ||qmname.com^
 ||qn.bejson.com^
 ||qndown.com^
@@ -5383,7 +5306,6 @@ zhn.cynouk.cn^
 ||quansj.cn^
 ||quantserve.com^
 ||qucaigg.com^
-||qucco.cn^
 ||queene.cn^
 ||queqh.com^
 ||questionmarket.com^
@@ -5427,7 +5349,6 @@ zhn.cynouk.cn^
 ||rbign.cn^
 ||rbmry.com^
 ||rbywg.com^
-||rcaiu.com^
 ||rcaiv.com^
 ||rcm-cn.amazon.cn^
 ||rcynoe.cn^
@@ -5602,15 +5523,12 @@ zhn.cynouk.cn^
 ||sdkauth.hpplay.cn^
 ||sdkconfig.play.aiseet.atianqi.com^
 ||sdkconfig.video.qq.com^
-||sdkdm.com^
 ||sdkm.w.inmobi.cn^
 ||sdksp.video.qq.com^
 ||sdqoi2d.com^
-||sdsqyyc.com^
 ||sdtieta.com^
 ||sdtld.net^
 ||sdxkdj.cn^
-||sdycd.com^
 ||sdytsh.com^
 ||se.360.cn^
 ||se967.com^
@@ -5661,7 +5579,6 @@ zhn.cynouk.cn^
 ||shence.hupu.com^
 ||shendu.cc
 ||shengchaopiao.cn^
-||shengdianwang.cc^
 ||shenglonghg.net^
 ||shengushi.cn^
 ||shenhao258.top^
@@ -5692,10 +5609,8 @@ zhn.cynouk.cn^
 ||show.qx15.com^
 ||show.sogua.com^
 ||show.xiazai16.com^
-||shshuoshu.com^
 ||shsnjj.top^
 ||shspdt.com^
-||shtuzhong.com^
 ||shuaixu.site^
 ||shucaihangjia.com^
 ||shuikan.xyz^
@@ -5728,11 +5643,9 @@ zhn.cynouk.cn^
 ||sixgen.cn^
 ||sjaidu.com^
 ||sjbaiduadv1.redou.com^
-||sjczsc.com^
 ||sjgnskf.com^
 ||sjmwkj.cn^
 ||sjy-stone.com.cn^
-||sjzjxffmy.com^
 ||sjzqu.com^
 ||skatehot.net^
 ||skyjh.cn^
@@ -5751,7 +5664,6 @@ zhn.cynouk.cn^
 ||smf82.cn^
 ||smitionsory.co^
 ||smpdth.cn^
-||smsksx.com^
 ||smucdn.com^
 ||smvip8.cn^
 ||smxay.com^
@@ -5882,14 +5794,12 @@ zhn.cynouk.cn^
 ||superli666.top^
 ||supersonicads.com^
 ||supfast.net^
-||surroundtm.com^
 ||sutidai.com^
 ||suukcn.com^
 ||suwo0n.com^
 ||suwoj.com^
 ||svem.cc
 ||svfwer.top^
-||svsatrerbxh.com^
 ||swa.gtimg.com^
 ||swc.weather.com.cn^
 ||switchadhub.com^
@@ -5901,7 +5811,6 @@ zhn.cynouk.cn^
 ||sxdyrq.com^
 ||sxjkc.cn^
 ||sxjxhg.com^
-||sxlczj.cn^
 ||sxmdxy.com^
 ||sxmutan.com^
 ||sxtyhl.top^
@@ -5991,7 +5900,6 @@ zhn.cynouk.cn^
 ||taobaomayu.com^
 ||taobayun.cn^
 ||taobeike.com^
-||taodianji.net^
 ||taohanpai.com^
 ||taolecun.com^
 ||taomato.com^
@@ -6005,7 +5913,6 @@ zhn.cynouk.cn^
 ||tapjoyvod.8686c.com^
 ||targetedmedia.com.cn^
 ||tatagou.com.cn^
-||tatahn.com^
 ||tbaia.com^
 ||tbaocdn.com^
 ||tbenq.com^
@@ -6063,7 +5970,6 @@ zhn.cynouk.cn^
 ||tiannbo.com^
 ||tianqi777.com^
 ||tianshu-x.gtimg.cn^
-||tiantianedu.net^
 ||tiantiansoft.com^
 ||tianwenhu.com^
 ||tianxiazhenji.com^
@@ -6161,7 +6067,6 @@ zhn.cynouk.cn^
 ||trourted.pro^
 ||trustutn.org
 ||trwba.com^
-||trzi30ic.com^
 ||trzina.com^
 ||ts6.net^
 ||ts9.cc
@@ -6228,7 +6133,6 @@ zhn.cynouk.cn^
 ||tyhjwjg.cn^
 ||tykor.net^
 ||tylll.com^
-||tymsyx.com^
 ||tyrghj.cn^
 ||tyyjzs.cn^
 ||tz-dsp.com^
@@ -6324,7 +6228,6 @@ zhn.cynouk.cn^
 ||uploadlog.p2p.qq.com^
 ||upptux.cn^
 ||uqidian.com^
-||uqie4nzy.com^
 ||uranus.sogou.com^
 ||urhu.cn^
 ||uri6.com^
@@ -6456,7 +6359,6 @@ zhn.cynouk.cn^
 ||w1.diaoyou.com^
 ||w1.wayqq.com^
 ||w11.zhongkaohelp.com^
-||w16899.com^
 ||w18.9939.com^
 ||w3989.com^
 ||w4pma.cn^
@@ -6464,7 +6366,6 @@ zhn.cynouk.cn^
 ||w8.com.cn^
 ||w859u.cn^
 ||wa.gtimg.com^
-||wa11ace.net^
 ||waby66.cn^
 ||wacc888.com^
 ||wagenlux.cn^
@@ -6486,7 +6387,6 @@ zhn.cynouk.cn^
 ||wantaico.com^
 ||wantaiss.com^
 ||wantfour.com^
-||wao24.com^
 ||wap.2f.com^
 ||wap.x4399.com^
 ||wap.yb3.cc^
@@ -6522,7 +6422,6 @@ zhn.cynouk.cn^
 ||web.900.la^
 ||web.douaigu.com^
 ||web.kuaiwan.com^
-||webabcd.com^
 ||webkooo.com^
 ||webterren.com^
 ||wecan88.com^
@@ -6614,7 +6513,6 @@ zhn.cynouk.cn^
 ||wole.us^
 ||womenwan.com^
 ||woniu.com^
-||woniu666.com^
 ||wonwg.com^
 ||wooboo.com.cn^
 ||woodpecker.uc.cn^
@@ -6632,7 +6530,6 @@ zhn.cynouk.cn^
 ||wqzyt.net^
 ||wrating.com^
 ||wrkdih.com^
-||wrvdmh.cn^
 ||ws.wenshenxiu.com^
 ||ws341.com^
 ||ws7j.com^
@@ -6659,7 +6556,6 @@ zhn.cynouk.cn^
 ||wuylp.com^
 ||wuyou.la
 ||wvcdn.cn^
-||wvver.com^
 ||wwetjy.com^
 ||wwlolbs.com^
 ||www-sina-cn-com.com^
@@ -6805,7 +6701,6 @@ zhn.cynouk.cn^
 ||xiakelea.com^
 ||xiald.com^
 ||xiang7.vip^
-||xiangchim0.com^
 ||xiangshiw.net^
 ||xiankandy.com^
 ||xiaoangel.com^
@@ -6820,7 +6715,6 @@ zhn.cynouk.cn^
 ||xiaoyutiao.com^
 ||xiaozhishi852.com^
 ||xiaxuanfu.com^
-||xibei70.com^
 ||xicigroup.cn^
 ||xidexableact.cn^
 ||xieyanmin.com.cn^
@@ -6850,7 +6744,6 @@ zhn.cynouk.cn^
 ||xinray.com^
 ||xinterface.cn^
 ||xintianxia.cc
-||xinyijiasc.cn^
 ||xinzheng8.pw
 ||xiongdong.com^
 ||xiongyin.com^
@@ -6862,7 +6755,6 @@ zhn.cynouk.cn^
 ||xjidian.com^
 ||xjjkjo.pw^
 ||xjmgzepfjj^
-||xjtxcj.com^
 ||xk0x.cn^
 ||xk2012.com^
 ||xkena.com^
@@ -6924,7 +6816,6 @@ zhn.cynouk.cn^
 ||xtzxmy.com^
 ||xu7b.com^
 ||xuanlimin.top^
-||xuanmeiguoji.com^
 ||xuanxuan520.com^
 ||xue.zbyw.cn^
 ||xuehelei.com^
@@ -6942,7 +6833,6 @@ zhn.cynouk.cn^
 ||xuntingad.com^
 ||xunyibaike.com^
 ||xushenghb.com^
-||xvnfyutv.com^
 ||xvtpvc.cn^
 ||xvyljkr.com^
 ||xwuad.com^
@@ -7009,7 +6899,6 @@ zhn.cynouk.cn^
 ||ychap.com^
 ||ychbgjg.cn^
 ||ychml.com^
-||ychun03.com^
 ||yclmw.com^
 ||ycypzx.cn^
 ||ydeprint.com^
@@ -7107,18 +6996,15 @@ zhn.cynouk.cn^
 ||yktj.yzz.cn^
 ||ykxwn.com^
 ||yladm.com^
-||yljiaoluo.com^
 ||ylunion.com^
 ||ym.2liang.com^
 ||ymapp.com^
 ||ymcdn.cn^
 ||ymcqb.com^
-||ymima360.com^
 ||ymm7.top^
 ||ymmdpk.cn^
 ||ynbojie.com^
 ||ynbzxh.com^
-||yndianju.com^
 ||ynfzxh.com^
 ||ynjczy.net^
 ||ynjkkj.com^
@@ -7200,7 +7086,6 @@ zhn.cynouk.cn^
 ||yule8.net^
 ||yulzs.com^
 ||yumi06.com^
-||yunbofangbt.com^
 ||yunluge.com^
 ||yunmowu.com^
 ||yunos.com^
@@ -7270,7 +7155,6 @@ zhn.cynouk.cn^
 ||zaoyx.jrchiji.cn^
 ||zazhipu.com^
 ||zbeic.com^
-||zbieo.com^
 ||zbsybh.cn^
 ||zcand.com^
 ||zcaod.com^
@@ -7360,7 +7244,6 @@ zhn.cynouk.cn^
 ||zhufushuo.com^
 ||zhuifood.top^
 ||zhujiafangchan.cn^
-||zhunishunli.com^
 ||zhushicm.com^
 ||zhuyuanp.club^
 ||zhy333.com^
@@ -7382,7 +7265,6 @@ zhn.cynouk.cn^
 ||zjkdaikuan.com^
 ||zjksgl.com^
 ||zjsru-iweb.net^
-||zjuwjdc.com^
 ||zk.91post.com^
 ||zkads.cc
 ||zkba9.cn^

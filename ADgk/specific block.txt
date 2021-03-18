@@ -17,7 +17,6 @@
 ||.weixingshexiangji.net^
 ||.zhihu.com/track
 ||/1905/1905.swf
-||/1905/1905.swf ||1905/openad_swf_plugin.swf
 ||000001.azureedge.net/script/common.js
 ||000001.azureedge.net/script/p.js
 ||000b.info/js/
@@ -234,6 +233,7 @@
 ||189.gd^*.html$third-party
 ||189.gd^*.html?p=$popup,third-party
 ||18avday.*/aa/
+||1905/openad_swf_plugin.swf
 ||192.240.111.77/ad/
 ||192.74.239.161/ad960.js
 ||19216811.la/net/advert
