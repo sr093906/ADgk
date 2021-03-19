@@ -123,7 +123,6 @@
 @@||192.168.*/advertising_$stylesheet
 @@||199it.com^$generichide
 @@||19iiii.info/js/logo$script
-@@||2018x.bid/adview.js
 @@||2345.com/images/activity/20171111/open/j/close.png
 @@||31vcd.com/player/kuyun.js
 @@||360buyimg.com/ad/$domain=jd.com^
@@ -151,7 +150,6 @@
 @@||590103.idv.tw/advertisement.js
 @@||5qidgde.com^$generichide
 @@||5tps.com/playm/flw.
-@@||5w8.in/myads/img/thunder
 @@||5w8s.com/myads/img/otherwp.gif
 @@||5w8s.com^*/thunder$image
 @@||6080ai.com/*play$script
@@ -844,7 +842,6 @@
 @@||xidian.edu.cn^$generichide
 @@||xilinjie.com^$generichide
 @@||xiuren.org^$generichide
-@@||xizixue.com/plus/count.php?
 @@||xmxing.net^
 @@||xnimg.cn/n/apps/profile/modules/tuiguang/
 @@||xnimg.cn^*/nx/ugc/share/js/hotlist.js

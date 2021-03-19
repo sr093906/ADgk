@@ -1271,7 +1271,6 @@ zhn.cynouk.cn^
 ||afd.baidu.com^
 ||affiliate6.com^
 ||afj.cc
-||afj.xasjpf.com^
 ||afj0.com^
 ||afjlb.com^
 ||afoux.com^
@@ -1404,7 +1403,6 @@ zhn.cynouk.cn^
 ||api.cupid.qiyi.com^
 ||api.danmu.tv.sohu.com^
 ||api.game.letvstore.com^
-||api.inwemo.com^
 ||api.iplay.163.com^
 ||api.ktplay.com^
 ||api.kwaizt.com^
@@ -1697,7 +1695,6 @@ zhn.cynouk.cn^
 ||bihutg.com^
 ||billionfocus.com^
 ||bima.weathercn.com^
-||bingdiantao.com^
 ||bingyinq.com^
 ||biochempop.com^
 ||bivitr.com^
@@ -1864,7 +1861,6 @@ zhn.cynouk.cn^
 ||cailawyer.cn^
 ||caiwanhui.top^
 ||caiyifz.com^
-||caiyun51.com^
 ||calculated.cn^
 ||caliyuna.cn^
 ||camelee.cn^
@@ -1897,7 +1893,6 @@ zhn.cynouk.cn^
 ||ccbaihehq.com^
 ||ccbccb.cn^
 ||ccc.sys.miui.com^
-||cccab.club^
 ||cccccd.com^
 ||cccrir.com^
 ||cchfjz.com^
@@ -1905,7 +1900,6 @@ zhn.cynouk.cn^
 ||ccjxybj.cn^
 ||ccmdgg.com^
 ||ccouv.com^
-||cctyly.com^
 ||ccunf.com^
 ||cd23b.h8hypjvr9.com^
 ||cd828.com^
@@ -1955,7 +1949,6 @@ zhn.cynouk.cn^
 ||championmachinery-cn.com^
 ||chanet.com.cn^
 ||changhehengqi.com^
-||changxiukj.com^
 ||changyan.sohu.com^
 ||channel.m.163.com^
 ||channeladvisor.com^
@@ -1972,7 +1965,6 @@ zhn.cynouk.cn^
 ||chenxiangqian.cn^
 ||chenyanjiao.cn^
 ||chenzx.site^
-||chersc.com^
 ||chexiw.com^
 ||chfuw.com^
 ||chgdf.cn^
@@ -3058,7 +3050,6 @@ zhn.cynouk.cn^
 ||gosquared.com^
 ||goto.www.iciba.com^
 ||gotourl.xyz^
-||gotourls.bid^
 ||gou1zhe.com^
 ||goulanmeng.cn^
 ||govgift.com^
@@ -3950,7 +3941,6 @@ zhn.cynouk.cn^
 ||jzntxs.com^
 ||k08999.com^
 ||k1.dancihu.com^
-||k1.wanwenwan.cn^
 ||k12shequ.com^
 ||k1815.com^
 ||k2n0f.cn^
@@ -4395,7 +4385,6 @@ zhn.cynouk.cn^
 ||m.fhxiaoshuo.com^
 ||m.frfykc.cn^
 ||m.gpsa46z.top^
-||m.gvez.top^
 ||m.gxwztv.com^
 ||m.h0x.cn^
 ||m.helloworld2018.top^
@@ -4971,7 +4960,6 @@ zhn.cynouk.cn^
 ||p.5mnh.com^
 ||p.7060.la^
 ||p.8es.net^
-||p.985mi.com^
 ||p.buluo.qq.com^
 ||p.kugou.com/
 ||p.sug.so.com^
@@ -5454,7 +5442,6 @@ zhn.cynouk.cn^
 ||s06th.cn^
 ||s1.dapenti.com^
 ||s1.dugoogle.com^
-||s1.hualaoye.com^
 ||s1.qiqutt.cn^
 ||s1.qiqutt.com^
 ||s1.tuzhaozhao.com^
@@ -5465,7 +5452,6 @@ zhn.cynouk.cn^
 ||s8x1.com^
 ||s9w.cc^
 ||sa.sina.cn^
-||sachbs.club^
 ||sadjk.com^
 ||sadobo.com^
 ||saf588.com^
@@ -6420,7 +6406,6 @@ zhn.cynouk.cn^
 ||wdzsb.com.cn^
 ||weareqy.com^
 ||web.900.la^
-||web.douaigu.com^
 ||web.kuaiwan.com^
 ||webkooo.com^
 ||webterren.com^
@@ -7050,7 +7035,6 @@ zhn.cynouk.cn^
 ||ypmob.com^
 ||ypzhwf.cn^
 ||yqcy988.com^
-||yqjxzw.com^
 ||yqw88.com^
 ||yr023.com^
 ||yr29r.cn^
@@ -7139,7 +7123,6 @@ zhn.cynouk.cn^
 ||yzygo.com^
 ||yzytb.com^
 ||z.nowscore.com^
-||z0252.x2jpz.xyz^
 ||z1.chezhuzhinan.com^
 ||z1.cyla.cn^
 ||z1hihu.xmcimg.com^

@@ -16,7 +16,6 @@
 ||*xav.*/guang/*.gif
 ||.weixingshexiangji.net^
 ||.zhihu.com/track
-||/1905/1905.swf
 ||000001.azureedge.net/script/common.js
 ||000001.azureedge.net/script/p.js
 ||000b.info/js/
@@ -456,7 +455,6 @@
 ||4gtv.tv/4gTV_OTT.json
 ||4hw.com.cn/js/common.js
 ||4k123.com/data/attachment/portal/201712/20/194208ao9pevvvg0xr0n1p.jpg
-||4kt2.com^$subdocument
 ||4paradigm.com^$domain=sina.com.cn^
 ||500xxxx.com/go.js
 ||504537168.com/Public/system/system.
@@ -578,7 +576,6 @@
 ||5vdd.com/360
 ||5vdd.com/ktt.png
 ||5vdd.com/mobile.jpg
-||5x5q.com/js/$script
 ||5xmp4.com/js/dd/
 ||5ydj.com/images/banner/
 ||6.cn/coop/pub/getRand.php?
@@ -611,7 +608,6 @@
 ||64vk.com/java/
 ||66.fmx.cn/js/
 ||66122.com/statics/js/yd.js
-||6620070.com/js/
 ||6665432.com^*.gif
 ||6665kkk.com/ggvip^
 ||666av.me/js/youxiaojiao.js
@@ -629,7 +625,6 @@
 ||67.159.44.187/js/v1.js
 ||6789.com/media/images/jiao.swf
 ||678pan.com/TC/
-||688900.net/js/ok/
 ||69adu.com/bootstrap.
 ||69shi.cn/p.php?id=
 ||69shu.org/cnm.js
@@ -826,8 +821,6 @@
 ||a3v4.top/Picture/aiai.gif
 ||a5.1xasset.com^$domain=6161bb.com^
 ||a5xiazai.com/z/
-||aa123.cool/template/s123/css/javamy.js
-||aa123.cool/template/s123/css/javatop.js
 ||aaaimg.com/images*.gif
 ||aassy4.com/dm/
 ||abbao.cn^*adblock
@@ -974,7 +967,6 @@
 ||amd.cn/yyets.js
 ||ammcg.imgscloud.com/toy/
 ||amu520.com/imgnk/02.gif
-||anbuse3.com/js/ajax/
 ||angelweb.cn/Inc/AngelG.js
 ||anhuinews.com/include/
 ||anhuinews.com/zhuyeguanli/*ad/
@@ -1394,7 +1386,6 @@
 ||bnextmedia.com.tw/feed/fetch.js
 ||bobo.com/special/$subdocument
 ||bonbonme.com/js/g1313166/
-||bonbonyou.com/js/
 ||book118.com/Public/book118/js/picture-else/
 ||book118.com/Public/book118/js/scz-zip/
 ||book118.com/statics/js2/
@@ -1935,7 +1926,6 @@
 ||down.qq.com/iedsafe^
 ||down12.com/common17/js/bdvert.js
 ||downbank.cn/js/g.js
-||downbook.net/img/pm.js
 ||downhot.com/Res/js/arc.js
 ||downhot.com/Res/js/main.js
 ||download.game.yy.com/crossdomain.xml
@@ -1963,7 +1953,6 @@
 ||duouoo.com/vss/right-ssd.js
 ||duouoo.com/vss/wz
 ||duoyi.com/welcome/$popup
-||dvei.fendoutime.com^$domain=m.qqm4.com^
 ||dwstatic.com^*/p/livetip/
 ||dx-bdcdncnc.inter.71edge.com/qpdxv/other^$empty
 ||dx-bdcdncnc.inter.71edge.com/videos/other^$domain=iqiyi.com,mp4
@@ -2948,7 +2937,6 @@
 ||jku62.com/other/gameEntrance
 ||jlpcn.net/img/300p-
 ||jlrfx.com$script
-||jlxyjs.com/attachment/
 ||jmbbs.cn/sjgg/
 ||jmhfw.com/index.php?/ajax/get_adv/
 ||jmydm.com/jspage/ftt.js
@@ -3324,7 +3312,6 @@
 ||m.dqytzyyjt.com/images^
 ||m.dqytzyyjt.com/yj^
 ||m.fengchedm.com/*/jquery-top.js*
-||m.fengyunok.com/js/ajax.js
 ||m.ftchinese.com/eaclient/apijson.php$domain=m.ftchinese.com^
 ||m.gao7.com/news/GetGameRelationPack.ajax
 ||m.geilimei.cc/foot.js
@@ -3350,7 +3337,6 @@
 ||m.piaov.com/js/html.js
 ||m.piaov.com/js/iscroll.js
 ||m.qiqipu.com/ajs^
-||m.qqm4.com/js^$domain=m.qqm4.com^
 ||m.qu.la/cp/cp.js
 ||m.qu.la/jsa/p.js
 ||m.qu.la/ll/
@@ -4214,7 +4200,6 @@
 ||sdk.yunfan.com/crossdomain.xml
 ||sdkcdn.videojj.com/live-tag/
 ||sdo.com/static/image/mkads/
-||sdzbcg.com/images/sdfhyl
 ||se533.com/template/new/css/*.js
 ||se8u.cc/statics/images/*.gif
 ||sealine.youku.com/yk/html?
@@ -5013,9 +4998,6 @@
 ||www.833tu.com/js/config.js
 ||www.92miaopai.com/abc/*.gif$image
 ||www.99miaopai.com/abc/*.gif$image
-||www.aa123.cool/ggg.js
-||www.aa123.cool/js/dibu.js
-||www.aa123.cool/js/tonglan.js
 ||www.aaa14a.pw/js/thea1.js
 ||www.aaa14a.pw/js/thea2.js
 ||www.avtb135.com/templates/defboot/js/scripts.js
@@ -5544,8 +5526,6 @@
 ||zx98.com/mm/$script
 ||zxdy777.com/myimg/
 ||zxip.com/2013_ad/
-||zywl8.cn/3333.gif
-||zywl8.cn/content/uploadfile/201911/dc121573198250.png
 ||zz2143.com/img/*.gif
 ||zzbaike.com/main/*-20
 ||zzbaike.com/main/arvixe

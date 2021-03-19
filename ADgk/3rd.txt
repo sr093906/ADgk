@@ -152,7 +152,6 @@
 ||bloggerads.net$third-party
 ||book9.net^$third-party
 ||bs777.net^$third-party
-||cais181.com^$third-party
 ||cardniu.com^$third-party
 ||cfff.net^$third-party
 ||chanet.com.cn$third-party

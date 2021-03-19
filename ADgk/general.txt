@@ -1459,6 +1459,7 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 /toptip.js*
 /tourl.html?url=
 /tps/noexpire/*
+/track.gif^
 /tres/recommend/*$domain=ifeng.com^
 /tres/recommend/test/*.swf
 /ttads.
