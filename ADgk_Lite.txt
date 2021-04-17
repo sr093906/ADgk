@@ -253,6 +253,7 @@
 0.0.0.0 fcapi.jpush.cn
 0.0.0.0 fclick.baidu.com
 0.0.0.0 feed-image.baidu.com
+0.0.0.0 feedback.cn.ronghub.com
 0.0.0.0 fpb.sohu.com
 0.0.0.0 fusion.qq.com
 0.0.0.0 g.163.com
@@ -336,8 +337,10 @@
 0.0.0.0 life.html5.qq.com
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 list.z.qingting.fm
+0.0.0.0 live-trace.bilibili.com
 0.0.0.0 livep.l.aiseet.atianqi.com
 0.0.0.0 lives.l.aiseet.atianqi.com
+0.0.0.0 lmbsy.qq.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-stats.weathercn.com
 0.0.0.0 log-upload.mihoyo.com
@@ -346,6 +349,7 @@
 0.0.0.0 log.m.sm.cn
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.qvb.qcloud.com
+0.0.0.0 log.snssdk.com
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 log.tpns.tencent.com
 0.0.0.0 log1.kuwo.cn
@@ -355,6 +359,7 @@
 0.0.0.0 logger.baofeng.com
 0.0.0.0 logonext.tv.kuyun.com
 0.0.0.0 logs.amap.com
+0.0.0.0 logs.nandu.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 lstat.youku.com
 0.0.0.0 lu.sogou.com
@@ -422,6 +427,7 @@
 0.0.0.0 openinstall.io
 0.0.0.0 orbit.jd.com
 0.0.0.0 otheve.beacon.qq.com
+0.0.0.0 othstr.beacon.qq.com
 0.0.0.0 p-log.ykimg.com
 0.0.0.0 p.buluo.qq.com
 0.0.0.0 p.sug.so.com
@@ -526,6 +532,7 @@
 0.0.0.0 soup.v.qq.com
 0.0.0.0 spcode.baidu.com
 0.0.0.0 ssp.lionmobo.com
+0.0.0.0 ssp.qq.com
 0.0.0.0 ssp.tencentmusic.com
 0.0.0.0 ssp.xiaomi.com
 0.0.0.0 stadig.ifeng.com
@@ -562,6 +569,7 @@
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 tp.sgcn.com
 0.0.0.0 tr.jianshu.com
+0.0.0.0 trace.qq.com
 0.0.0.0 track.58.com
 0.0.0.0 track.sigmob.cn
 0.0.0.0 track.sohu.com
@@ -597,6 +605,7 @@
 0.0.0.0 vstat.v.blog.sohu.com
 0.0.0.0 vwhi.gou.sogou.com
 0.0.0.0 w.cnzz.com
+0.0.0.0 w.inews.qq.com
 0.0.0.0 wa.gtimg.com
 0.0.0.0 wan.youku.com
 0.0.0.0 wbapp.mobile.sina.cn
