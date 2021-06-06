@@ -21,6 +21,7 @@
 0.0.0.0 adashxgc.ut.taobao.com
 0.0.0.0 adbox.sina.com.cn
 0.0.0.0 adclick.tencentmusic.com
+0.0.0.0 log.aliyuncs.com
 0.0.0.0 adexpo.tencentmusic.com
 0.0.0.0 adim.pinduoduo.com
 0.0.0.0 adjust.com
@@ -271,8 +272,11 @@
 0.0.0.0 ggtp-1255424916.cos.ap-chengdu.myqcloud.com
 0.0.0.0 go.sohu.com
 0.0.0.0 golden1.sogou.com
+0.0.0.0 gozendata.com
 0.0.0.0 growingio.com
 0.0.0.0 growthpic.weishi.qq.com
+0.0.0.0 gz-data.com
+0.0.0.0 gzads.com
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-adashx4yt.ut.taobao.com
 0.0.0.0 handycam.alicdn.com
@@ -315,6 +319,7 @@
 0.0.0.0 iyes.youku.com
 0.0.0.0 j.wit.qq.com
 0.0.0.0 jellyfish.pandora.xiaomi.com
+0.0.0.0 jf.10010.com
 0.0.0.0 jiaoben.eastday.com
 0.0.0.0 jiaoben.ganji.cn
 0.0.0.0 jiejg.ifeng.com
@@ -498,6 +503,7 @@
 0.0.0.0 same.eastmoney.com
 0.0.0.0 sayhi.360.cn
 0.0.0.0 sclick.baidu.com
+0.0.0.0 sdc.10086.cn
 0.0.0.0 sdfp.snssdk.com
 0.0.0.0 sdk.api.oaid.wocloud.cn
 0.0.0.0 sdk.conf.igexin.com
@@ -620,6 +626,7 @@
 0.0.0.0 wxsnsdy.tc.qq.com
 0.0.0.0 wxsnsdy.video.qq.com
 0.0.0.0 wzjs.cdn.bcebos.com
+0.0.0.0 wzjs2.cdn.bcebos.com
 0.0.0.0 x.jd.com
 0.0.0.0 xc.mydrivers.com
 0.0.0.0 xj-n-tax.gov.cn
@@ -634,5 +641,6 @@
 0.0.0.0 zhannei-dm.csdn.net
 0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 zhizi.qq.com
+0.0.0.0 zqjscss.cdn.bcebos.com
 0.0.0.0 ztyumn.ifeng.com
 0.0.0.0 zz.bdstatic.com
